@@ -1,0 +1,20 @@
+{
+  "name": "typescript-sandbox",
+  "version": "1.0.0",
+  "description": "타입스크립트 연습용 sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungminRyu/typescript-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seungminRyu/typescript-sandbox/issues"
+  },
+  "homepage": "https://github.com/seungminRyu/typescript-sandbox#readme"
+}
