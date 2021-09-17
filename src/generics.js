@@ -1,4 +1,3 @@
-"use strict";
 // generic은 타입스크립트에서 function, class, interace, type을 사용하게 될 때 여러 종류의
 // 타입에 대하여 호환을 맞춰야 하는 상황에서 사용하는 문법이다.
 var __assign = (this && this.__assign) || function () {

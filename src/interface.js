@@ -1,4 +1,3 @@
-"use strict";
 var Circle = /** @class */ (function () {
     function Circle(radius) {
         this.radius = radius;

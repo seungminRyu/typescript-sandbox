@@ -1,4 +1,3 @@
-"use strict";
 var count = 0;
 count += 1;
 // count = '갑자기 문자열은 안됑 ㅎ';
